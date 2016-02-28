@@ -1,0 +1,30 @@
+_repo: Dantons-Tod_5072
+creator:
+  author:
+    agent_name: Büchner, Georg
+    aliases:
+    - Büchner, Karl Georg
+    - Zabeltitz, Georg Büchner Zobel von
+    - Buchner, Georg
+    - Von Zabeltitz, Georg Büchner Zobel
+    - Buechner, Carl Georg
+    birthdate: 1813
+    deathdate: 1837
+    gutenberg_agent_id: '1690'
+    url: http://www.gutenberg.org/2009/agents/1690
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Büchner
+description: ''
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5072'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danton, Georges Jacques, 1759-1794 -- Drama'
+- !lcc 'PT'
+title: Dantons Tod
+url: http://www.gutenberg.org/ebooks/5072
